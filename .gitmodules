@@ -1,3 +1,3 @@
-[submodule "package/kafka-rust"]
-	path = package/kafka-rust
-	url = git@github.com:kafka-rust/kafka-rust.git
+[submodule "package/rust-rdkafka"]
+	path = package/rust-rdkafka
+	url = https://github.com/fede1024/rust-rdkafka.git

@@ -1,3 +1,7 @@
-int calculate() {
-  return 6 * 7;
+import 'dart:ffi' as ffi;
+
+typedef kafka_client_new = ffi.
+
+void main() {
+  
 }
